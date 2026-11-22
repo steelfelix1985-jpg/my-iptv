@@ -1,3 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ChannelOne.ru@HD" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-perviy-kanal-hd.png" group-title="Федеральные",Первый HD
 http://94.250.255.172/ptv/vitrina/ch.php?id=aHR0cHM6Ly9tZWRpYS5tZWRpYXZpdHJpbmEucnUvYmFsYW5jZXIvdjMvMXR2LzF0dmNoL3N0cmVhbXMuanNvbg
+
+#EXTINF:-1 tvg-id="Russia1.ru@HD" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-rossiya-1.png" group-title="Федеральные",Россия 1 HD
+https://live.smotrim.ru/vgtrk/0/russia1-hd/index.m3u8
