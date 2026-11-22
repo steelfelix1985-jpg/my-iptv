@@ -5,6 +5,7 @@ http://94.250.255.172/ptv/vitrina/ch.php?id=aHR0cHM6Ly9tZWRpYS5tZWRpYXZpdHJpbmEu
 #EXTINF:-1 tvg-id="Russia1.ru@HD" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-rossiya-1.png" group-title="Федеральные",Россия 1 HD
 https://live.smotrim.ru/vgtrk/0/russia1-hd/index.m3u8
 
-#EXTINF:-1 tvg-id="110" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-ctc.png" group-title="Федеральные",СТС HD
-https://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT/1080p.m3u8
+#EXTINF:-1 tvg-id="NTV.ru@HD" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-ntv.png" group-title="Федеральные",НТВ HD
+https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?e=2077050299&s=HSWg81JrQ3OqmwuWkEIDAQ&scheme=https
+
 
